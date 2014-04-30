@@ -1,0 +1,7 @@
+v=s/t
+t - získám z fps
+s - spoèítám
+v - musím definovat z vektoru síly pøièemž váhá mùže být const.
+jako vektor se použije 1 bod... bude urèovat smìr pohybu a jeho rychlost za 1/1000 sec èímž
+bude staèit jako bod použít 3x char ;) 
+a aky som debil... toto vymýšlet 20minut :D :D

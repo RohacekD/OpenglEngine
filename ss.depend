@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1373822186 source:c:\programování\ss\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+
+1374250194 source:c:\documents and settings\ratanus\plocha\ss\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	"include/Window.h"
+
+1374249524 source:c:\documents and settings\ratanus\plocha\ss\src\window.cpp
+	"../include/Window.h"
+
+1374250218 c:\documents and settings\ratanus\plocha\ss\include\window.h
+	<iostream>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1384510271 source:c:\users\ratan\desktop\ss\main.cpp
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	"Window.h"
+	"Fps.h"
+	"Shapes/Shapes.h"
+	"Camera.h"
+	"RenderEngine.h"
+	"PhysicEngine.h"
+	"Controler.h"
+	"Mouse.h"
+	"Units/Vertex3D.h"
+	"Units/Vektor3D.h"
+	"Player.h"
+	"Resources.h"
+	"test/Test.h"
+
+1383299797 c:\users\ratan\desktop\ss\include\window.h
+	<iostream>
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<fstream>
+	<iostream>
+
+1384171209 source:c:\users\ratan\desktop\ss\src\window.cpp
+	"../include/Window.h"
+
+1374751978 source:c:\users\ratan\desktop\ss\src\engine.cpp
+	"..\include\Engine.h"
+
+1374751418 c:\users\ratan\desktop\ss\include\engine.h
+
+1384505908 c:\users\ratan\desktop\ss\include\fps.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<iostream>
+
+1384035527 source:c:\users\ratan\desktop\ss\src\fps.cpp
+	"..\include\Fps.h"
+	<cstddef>
+
+1375459780 c:\users\ratan\desktop\ss\include\cube.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Vektor3D.h"
+
+1375809190 source:c:\users\ratan\desktop\ss\src\cube.cpp
+	"../include/Cube.h"
+
+1384333061 source:c:\users\ratan\desktop\ss\src\renderengine.cpp
+	"RenderEngine.h"
+	"Resources.h"
+
+1384290206 c:\users\ratan\desktop\ss\include\renderengine.h
+	<vector>
+	"Shapes/Shapes.h"
+	"Camera.h"
+	<iostream>
+
+1383164571 c:\users\ratan\desktop\ss\include\vektor3d.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1381924412 source:c:\users\ratan\desktop\ss\src\vektor3d.cpp
+	"../include/Vektor3D.h"
+
+1383225479 c:\users\ratan\desktop\ss\include\camera.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1383734748 source:c:\users\ratan\desktop\ss\src\camera.cpp
+	"../include/Camera.h"
+	"../include/Player.h"
+	"../include/Units/Vertex3D.h"
+	"../include/Units/Vektor3D.h"
+	<cstddef>
+	<iostream>
+
+1384470486 c:\users\ratan\desktop\ss\include\shapes\cube.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Units/Vertex3D.h"
+	"Shapes/Shape.h"
+
+1384509975 c:\users\ratan\desktop\ss\include\shapes\shape.h
+	"Units/Vektor3D.h"
+	"Units/Vertex3D.h"
+	<GL/GL.h>
+	<iostream>
+
+1384506302 source:c:\users\ratan\desktop\ss\src\shapes\cube.cpp
+	"Shapes/Cube.h"
+	"Units/Vertex3D.h"
+	"Shapes/Shape.h"
+	"Fps.h"
+	<iostream>
+
+1384470610 source:c:\users\ratan\desktop\ss\src\shapes\shape.cpp
+	"Shapes/Shape.h"
+	"Resources.h"
+
+1384471165 source:c:\users\ratan\desktop\ss\src\physicengine.cpp
+	"PhysicEngine.h"
+	"Resources.h"
+
+1384505086 c:\users\ratan\desktop\ss\include\physicengine.h
+	<stdlib.h>
+	<vector>
+	<iostream>
+	"Shapes/Shape.h"
+
+1377114366 c:\users\ratan\desktop\ss\include\shapes\shapes.h
+	"Shape.h"
+	"Cube.h"
+
+1384529535 source:c:\users\ratan\desktop\ss\src\player.cpp
+	"Player.h"
+	"Units/Vektor3D.h"
+	"Units/Vertex3D.h"
+	"Camera.h"
+	<cstddef>
+	<cmath>
+	<tgmath.h>
+	<iostream>
+
+1384510285 c:\users\ratan\desktop\ss\include\player.h
+	<iostream>
+	<GL/gl.h>
+	<GL/glu.h>
+	<math.h>
+	"Units/Vertex3D.h"
+	"Shapes/Shapes.h"
+
+1383928811 c:\users\ratan\desktop\ss\include\controler.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1384499536 source:c:\users\ratan\desktop\ss\src\controler.cpp
+	"Controler.h"
+	"Camera.h"
+	"Units\Vektor3D.h"
+	"Units\Vertex3D.h"
+	"Mouse.h"
+	"Player.h"
+
+1382348737 source:c:\users\ratan\desktop\ss\src\objres.cpp
+	"../include/ObjRes.h"
+
+1383164085 c:\users\ratan\desktop\ss\include\objres.h
+	<vector>
+
+1384534489 c:\users\ratan\desktop\ss\include\units\vektor3d.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Units_define.h"
+
+1383224223 c:\users\ratan\desktop\ss\include\units\units_define.h
+
+1383257108 c:\users\ratan\desktop\ss\include\units\vertex3d.h
+	<SDL/SDL.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"Units_define.h"
+
+1383224574 source:c:\users\ratan\desktop\ss\src\units\vektor3d.cpp
+	"../../include/Units/Vektor3D.h"
+
+1383255874 source:c:\users\ratan\desktop\ss\src\units\vertex3d.cpp
+	"../../include/Units/Vertex3D.h"
+
+1383301178 source:c:\users\ratan\desktop\ss\src\mouse.cpp
+	"../include/Mouse.h"
+	"../include/Window.h"
+
+1383735930 c:\users\ratan\desktop\ss\include\mouse.h
+	<SDL/SDL.h>
+
+1384167189 source:c:\users\ratan\desktop\ss\src\errorhandler.cpp
+	"ErrorHandler.h"
+
+1384167189 c:\users\ratan\desktop\ss\include\errorhandler.h
+
+1384336502 source:c:\users\ratan\desktop\ss\src\resources.cpp
+	"Resources.h"
+	"Units/Vektor3D.h"
+	"Shapes/Shape.h"
+
+1384255694 source:c:\users\ratan\desktop\ss\src\factory_shape.cpp
+	"Factory_Shape.h"
+
+1384256805 c:\users\ratan\desktop\ss\include\factory_shape.h
+	"Shapes/Shapes.h"
+
+1384467387 c:\users\ratan\desktop\ss\include\resources.h
+	<vector>
+	<iostream>
+
+1384509123 source:c:\users\ratan\desktop\ss\src\test\test.cpp
+	"test/Test.h"
+	"Fps.h"
+	"Shapes/Shapes.h"
+
+1384505041 c:\users\ratan\desktop\ss\include\test\test.h
+	<SDL/SDL.h>
+
